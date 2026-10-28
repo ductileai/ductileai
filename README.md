@@ -2,15 +2,15 @@
   <img src="assets/mark.png" width="80" alt="Ductile AI" />
 </p>
 
-# Ductile AI
+# Ductile AI: AnnE completes your automation jobs
 
-**A safe AI companion for any business.** It answers your questions from your live systems, and it takes over the jobs you do by hand, safely and for good.
+**AnnE works for you. Give her the job, or paste a job post, and she completes it.** She answers your questions from your live systems and takes over the jobs you do by hand, safely and for good: AI automation for teams, consultants and enterprise.
 
 You talk to it in plain words. Ask a question and it reads your apps right now and comes back with the answer and the evidence. Describe a job and it writes a plan, shows you a test run on sample data, and waits for your approval. From then on the job runs itself, the same way every time, across the apps you already use, and reports what it did.
 
-No developer. No code editor. No code. If you can brief a new hire, you can set this up.
+No developer. No code editor. No code. If you can brief a freelancer, you can set this up.
 
-**[ductileai.com](https://www.ductileai.com)** · **[1,000+ apps, 5,000+ actions](https://www.ductileai.com/dapps/)** · **[the story, with sample forms and the embed](https://github.com/ductileai/story)**
+**[ductileai.com](https://www.ductileai.com)** · **[1,100+ apps, 5,700+ actions](https://www.ductileai.com/dapps/)** · **[jobs AnnE runs today](https://www.ductileai.com/#jobs)** · **[for consultants](https://www.ductileai.com/consultants/)** · **[the story, with sample forms and the embed](https://github.com/ductileai/story)**
 
 ---
 
@@ -53,11 +53,11 @@ No developer. No code editor. No code. If you can brief a new hire, you can set 
 
 | | |
 |---|---|
-| **1,000+ apps** | Salesforce, Slack, Microsoft Teams, Stripe, Shopify, HubSpot, Snowflake, Zoom, Google Workspace, Xero, QuickBooks, ClickUp, Hostinger, Paddle, Whop, Obsidian and many more. |
-| **5,000+ ready-made actions** | Read a record, create one, send a message, move a file, cancel a subscription, restart a server. Each one checked against the app vendor's own documentation before it ships. |
-| **8,700+ apps catalogued** | The wider market, reachable through general-purpose REST, SOAP, GraphQL and database connectors. |
+| **1,100+ apps** | Salesforce, Slack, Microsoft Teams, Stripe, Shopify, HubSpot, Snowflake, Zoom, Google Workspace, Xero, QuickBooks, ClickUp, Hostinger, Paddle, Whop, Obsidian and many more. |
+| **5,700+ ready-made actions** | Read a record, create one, send a message, move a file, cancel a subscription, restart a server. Each one checked against the app vendor's own documentation before it ships. |
+| **8,700+ apps catalogued, heading for 10,000+** | The wider market, reachable through general-purpose REST, SOAP, GraphQL and database connectors. |
 | **Web reading** | Point it at a page or a price list; it fetches and reads it now, for a step or for you. |
-| **Your second brain** | Everything you tell it, every document you give it and every past answer stay in your workspace. Answers come from your facts and cite them. |
+| **Your second brain** | Everything you tell it, every document you give it and every past answer stay with your business. Answers come from your facts and cite them. |
 | **Email, chat, sheets, slides, documents** | Sends through Gmail after you approve; posts to Slack, Microsoft Teams, WhatsApp, Telegram or by text; fills Excel and Google Sheets; builds Google Slides, Google Docs and PDFs from the same facts every time. |
 | **Hosted forms** | Your form, on your website or ours, starting a process the moment it is sent. |
 | **Webhooks, API and schedules** | The other ways real events reach a job. |
@@ -72,6 +72,6 @@ No developer. No code editor. No code. If you can brief a new hire, you can set 
 
 ## Get started
 
-Open a workspace at [ductileai.com](https://www.ductileai.com) and bring one job you do by hand every week. From $25 a month. The app list is public at [ductileai.com/dapps](https://www.ductileai.com/dapps/). The platform's source is private; what is public is here and on the site.
+Start free at [ductileai.com](https://www.ductileai.com) and give AnnE one job you do by hand every week. Paid plans from $19 a month, billed yearly. The app list is public at [ductileai.com/dapps](https://www.ductileai.com/dapps/). The platform's source is private; what is public is here and on the site.
 
 <p align="center"><sub>Ductile is the word engineers use for pipe that bends without breaking. The mark is that flow going round. © 2026 Ductile AI.</sub></p>
