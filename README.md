@@ -55,7 +55,7 @@ No developer. No code editor. No code. If you can brief a freelancer, you can se
 |---|---|
 | **2,000+ apps catalogued** | Salesforce, Slack, Microsoft Teams, Stripe, Shopify, HubSpot, Snowflake, Zoom, Google Workspace, Xero, QuickBooks, ClickUp, Hostinger, Paddle, Whop, Obsidian and many more. |
 | **60,000+ ready-made actions** | Read a record, create one, send a message, move a file, cancel a subscription, restart a server. Each one built from the app maker's own API definition and documentation. |
-| **The wider market** | Our aim is to bring 10,000+ apps within reach. Today, for an app without ready-made actions, AnnE builds the steps from its published API, or reaches it through general-purpose REST, SOAP, GraphQL and database connectors. |
+| **Expanding coverage** | Coverage is expanding to 10,000+ apps. An app without ready-made actions is still within reach: AnnE builds the steps from its published API, or connects through general-purpose REST, SOAP, GraphQL and database connectors. |
 | **Web reading** | Point it at a page or a price list; it fetches and reads it now, for a step or for you. |
 | **Your second brain** | Everything you tell it, every document you give it and every past answer stay with your business. Answers come from your facts and cite them. |
 | **Email, chat, sheets, slides, documents** | Sends through Gmail after you approve; posts to Slack, Microsoft Teams, WhatsApp, Telegram or by text; fills Excel and Google Sheets; builds Google Slides, Google Docs and PDFs from the same facts every time. |
